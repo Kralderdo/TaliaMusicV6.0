@@ -86,3 +86,4 @@ Demiryolunda konuşlandırma için [Necessary Variables Here](https://github.com
 
 ### Destek ve Güncelleştirmeler🎑
 <a href="https://t.me/Sohbetneresi"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SohbetDestek"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+("https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys#deploy-keys")
