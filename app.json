@@ -1,7 +1,7 @@
 {
-    "name": "Talia Müzik Bot",
+    "name": "@prenses_muzik_bot",
     "logo": "https://telegra.ph/file/bad69dc7929731b11e056.jpg",
-    "description": "Talia Müzik projesi, telegram sesli sohbet özelliğine, Müzik akışı yapmanızı sağlar.",
+    "description": "starjet Müzik projesi, telegram sesli sohbet özelliğine, Müzik akışı yapmanızı sağlar.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/Mehmet550666/TaliaMusic99",
     "stack": "container",
