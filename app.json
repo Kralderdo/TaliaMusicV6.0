@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/bad69dc7929731b11e056.jpg",
     "description": "Talia Müzik projesi, telegram sesli sohbet özelliğine, Müzik akışı yapmanızı sağlar.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Mehmet5506/TaliaMusic99",
+    "repository": "https://github.com/Mehmet550666/TaliaMusic99",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -79,7 +79,7 @@
     },
     "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latesttt"
     },
     {
       "url": "heroku/python"
