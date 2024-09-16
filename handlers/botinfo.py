@@ -13,11 +13,11 @@ f"""
 ❍ ver.6.0
 ❍ beta-version \n
 👩🏻‍💻 developer:
-❍ @Mahoaga
-❍ @raconReis\n
+❍ @developer_star
+❍ @developer_star\n
 💬 support chat:
-❍ @sohbetskyfall 
+❍ @kralice_sohbet
 📣 updates channel:
-❍ @SohnetDestek\n
+❍ @starjetmucis\n
 """
   ]
